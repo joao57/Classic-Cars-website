@@ -22,3 +22,5 @@ videos.forEach((video) => {
     video.pause();
   });
 });
+
+//end
